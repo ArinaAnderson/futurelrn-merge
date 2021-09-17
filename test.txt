@@ -1,9 +1,4 @@
-Main Programmes:
-— Async
-— HTTP
-— DOM
-— Hexlet (3 courses)
-— Books
-— mit
+Most important: asynchronous js, how browsers work
+
 
 
