@@ -1,5 +1,7 @@
-Most important: asynchronous js, how browsers work
+These are the main areas to hit
+(2-3 per day)
 
+Most important: asynchronous js, how browsers work
 ASYNC:
 — getify (‘Get started’, ’Async and Performance’)
 — evt loop (Ph.Roberts, Archibald)
