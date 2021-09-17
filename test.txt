@@ -1,6 +1,6 @@
 Most important: asynchronous js, how browsers work
 
-— getify
+— getify (‘Get started’, ’Async and Performance’)
 — evt loop (Ph.Roberts, Archibald)
 — MDN (basics)
 — Hexlet async track
