@@ -13,3 +13,7 @@ Most important: asynchronous js, how browsers work
 
 — debounce and throttling (a block of articles)
 
+******WSPOTS
+— https://web.dev/promises/ (promise)
+
+
