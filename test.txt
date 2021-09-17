@@ -1,4 +1,4 @@
-Most important: asynchronous js, how browsers work
+The most important: asynchronous js, how browsers work...
 
 — getify (‘Get started’, ’Async and Performance’)
 — evt loop (Ph.Roberts, Archibald)
@@ -15,5 +15,6 @@ Most important: asynchronous js, how browsers work
 
 ******WSPOTS
 — https://web.dev/promises/ (promise)
+— https://www.youtube.com/watch?v=JRNToFh3hxU&t=22s&ab_channel=LearnWebCode
 
 
