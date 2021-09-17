@@ -4,11 +4,14 @@ ASYNC:
 — getify (‘Get started’, ’Async and Performance’)
 — evt loop (Ph.Roberts, Archibald)
 — MDN (basics)
+
 — Hexlet async track
 — Eloquent JS (chapter Async JS)
 — Code Train
+
 — How Browsers work (https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
 — Browsers and JS (https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073)
+
 — debounce and throttling (a block of articles)
 
 
